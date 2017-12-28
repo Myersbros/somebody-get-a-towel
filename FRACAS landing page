@@ -1,0 +1,298 @@
+
+
+<!doctype
+html>
+
+<html>
+
+   <head>
+
+     <meta
+charset="UTF-8">
+
+          <style type="text/css">
+
+            .main {
+
+            position: relative;
+
+            top: 0;
+
+            left: 0;
+
+            }
+
+           .background {
+
+            position: relative;
+
+            top: 0px;
+
+            left: 0px;
+
+            height: 485px;
+
+            width: 950px;
+
+            }
+
+            .row1_button1 {
+
+            position: absolute;
+
+            top: 10px;
+
+            left: 10px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row1_button2 {
+
+            position: absolute;
+
+            top: 10px;
+
+            left: 200px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row1_button3 {
+
+            position: absolute;
+
+            top: 10px;
+
+            left: 390px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row1_button4 {
+
+            position: absolute;
+
+            top: 10px;
+
+            left: 580px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row1_button5 {
+
+            position: absolute;
+
+            top: 10px;
+
+            left: 770px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row2_button1 {
+
+            position: absolute;
+
+            top: 200px;
+
+            left: 10px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row2_button2 {
+
+            position: absolute;
+
+            top: 200px;
+
+            left: 200px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row2_button3 {
+
+            position: absolute;
+
+            top: 200px;
+
+            left: 390px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row2_button4 {
+
+            position: absolute;
+
+            top: 200px;
+
+            left: 580px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row2_button5 {
+
+            position: absolute;
+
+            top: 200px;
+
+            left: 770px;
+
+            height: 180px;
+
+            width: 180px;
+
+            }
+
+            .row1_button1:hover {
+
+            Opacity: 0.4;
+
+            }
+
+            .row1_button2:hover {
+
+            Opacity: 0.4;
+
+            }
+
+            .row1_button3:hover {
+
+            Opacity: 0.4;
+
+            }
+
+           .row1_button4:hover {
+
+            Opacity: 0.4;
+
+            }
+
+         </style>
+
+      </head>
+
+   <body>
+
+     <div class=”main”>
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_bg_1.png"
+class="background" />
+
+ 
+
+        <a
+href="/analytics/saw.dll?dashboard&PortalPath=%2Fusers%2Fdavid.j.myers2@navy.mil%2F_portal%2FFailure%20Reporting%20Analysis%20and%20Corrective%20Action%20System"
+target="_self">
+
+            <img src="/CustomSkins/Landing_Page/images/FRACAS_Virginia_Class_Button.png"
+class="row1_button1" border="0" title="FRACAS Virginia
+Class" />
+
+        </a>
+
+ 
+
+        <a
+href="/analytics/saw.dll?dashboard&PortalPath=%2Fusers%2Fdavid.j.myers2@navy.mil%2F_portal%2F(test)%20Ohio%20class%20FRACAS"
+target="_self">
+
+            <img src="/CustomSkins/Landing_Page/images/FRACAS_Ohio_Class_Button.png"
+class="row1_button2" border="0" title="FRACAS Ohio
+Class" />
+
+        </a>
+
+ 
+
+        <a
+href="/analytics/saw.dll?Dashboard&PortalPath=%2Fusers%2Fdavid.j.myers2@navy.mil%2F_portal%2FCommon%20System%20and%20Equipment%20FRACAS"
+target="_self">
+
+            <img
+src="/CustomSkins/Landing_Page/images/FRACAS_Ohio_Class_Button.png"
+class="row1_button3" border="0" title="FRACAS Columbia
+Class" />
+
+        </a>
+
+ 
+
+        <a
+href="/analytics/saw.dll?dashboard&PortalPath=%2Fusers%2Fdavid.j.myers2@navy.mil%2F_portal%2FCommon%20System%20and%20Equipment%20FRACAS"
+target="_self">
+
+            <img
+src="/CustomSkins/Landing_Page/images/FRACAS_CommonSys.png"
+class="row1_button4" border="0" title=" Common System
+and Equipment" />
+
+        </a>
+
+ 
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row1_button5" border="0" />
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row2_button1" border="0" />
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row2_button2" border="0" />
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row2_button3" border="0" />
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row2_button4" border="0" />
+
+        <img
+src="/CustomSkins/Landing_Page/images/st1_page_blank_button_update.png"
+class="row2_button5" border="0" />
+
+     </div>
+
+ 
+
+   </body>
+
+</html>
+
